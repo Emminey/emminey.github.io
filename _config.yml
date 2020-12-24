@@ -15,20 +15,20 @@ author:
   email: emminey1@gmail.com
   uri: https://emminey.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
-  bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
+  bio: "Mathematical Scientist, building Innovations to support the local communities in Rwanda"
   facebook: azamuke.denishavogadro
   twitter:emminey4
   instagram: azamukedenish
   google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
-  pinterest: azamukedenish
+  pinterest: emminey
   github: azamukedenish
   keybase: azamukedenish
   street: "First Street"
-  locality: Kampala
-  region: central
+  locality: Kigali
+  region: East
   postcode: 2570
-  country: Uganda
+  country: Rwanda
 
 facebook:
   admins: 100001982813077
@@ -100,7 +100,7 @@ plugins:
   - jekyll-sitemap
 
 compress_html:
-  clippings: all
+  clippings: allComputer 
   comments: all
   ignore:
     envs: development
