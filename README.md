@@ -1,4 +1,4 @@
-# [Azamuke Denish](https://azamukedenish.github.io)
+# [NIYIBIZI Emmanuel](https://emminey.github.io)
 
 My Personal Blog
 
