@@ -11,13 +11,13 @@ image: "/assets/img/writings.jpg"
 theme_color: "#000000"
 
 author:
-  name: Azamuke Denish
-  email: denishazamuke@gmail.com
+  name: NIYIBIZI Emmanuel
+  email: emminey1@gmail.com
   uri: https://emminey.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
   facebook: azamuke.denishavogadro
-  twitter: Azamukedenish1
+  twitter:emminey4
   instagram: azamukedenish
   google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
@@ -56,7 +56,7 @@ nav:
     url: "/privacy_policy/"
     
 
-repository: azamukedenish/azamukedenish.github.io
+repository: Emminey/emminey.github.io
 branch: master
 encoding: utf-8
 timezone: Africa/Kampala
