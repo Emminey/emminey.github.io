@@ -18,8 +18,8 @@ author:
   bio: "Mathematical Scientist, building Innovations to support the local communities in Rwanda"
   facebook: NIYIBIZI Emminey
   twitter:emminey4
-  #instagram: azamukedenish
-  #google_plus: azamukedenish
+  instagram: azamukedenish
+  google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
   pinterest: emminey
   github: azamukedenish
@@ -27,14 +27,14 @@ author:
   street: "First Street"
   locality: Kigali
   region: East
-  postcode: 2570
+  postcode: 352
   country: Rwanda
 
 facebook:
   admins: 100001982813077
 
 twitter:
-  username: Azamukedenish1
+  username: emminey4
 
 disqus_shortname: azamukedenish
 google_cse_id: 003203019626111314589:pxhon_hlo2q
@@ -77,7 +77,7 @@ gist:
 paginate_path: "/writings/page:num/"
 paginate: 10
 
-#permalink: "/:title/"
+permalink: "/:title/"
 defaults:
   - scope:
       path: "https://www.covidvisualizer.com/"
