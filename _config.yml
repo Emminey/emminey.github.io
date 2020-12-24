@@ -1,4 +1,4 @@
-title: Emmanuel
+title: NIYIBIZI Emmanuel
 description: "my web"
 url: "https://emminey.github.io"
 
@@ -11,15 +11,15 @@ image: "/assets/img/writings.jpg"
 theme_color: "#000000"
 
 author:
-  name: Emmanuel
+  name: NIYIBIZI Emmanuel
   email: emminey1@gmail.com
   uri: https://emminey.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: "Mathematical Scientist, building Innovations to support the local communities in Rwanda"
-  facebook: azamuke.denishavogadro
+  facebook: NIYIBIZI Emminey
   twitter:emminey4
-  instagram: azamukedenish
-  google_plus: azamukedenish
+  #instagram: azamukedenish
+  #google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
   pinterest: emminey
   github: azamukedenish
