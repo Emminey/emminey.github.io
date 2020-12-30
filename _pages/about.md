@@ -92,7 +92,7 @@ In case you were wondering, this site is:
 
 ...for more informations see [humans.txt](/humans.txt).
 
-If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using emminey1ATgmailDOTcom.
+If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using emminey1@gmail.com.
 
 ### Licensing
 
