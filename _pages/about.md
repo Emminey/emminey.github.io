@@ -2,18 +2,18 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi, I’m Azamuke Denish and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
+excerpt: "Hi, I’m NIYIBIZI Emmanuel and I specialize in Teaching Physics secondary. I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
 
 
-Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
+Hi, I’m NIYIBIZI Emmanuel and I specialize in Teaching Physics Secondary. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than Explaining Physics concept and carrying out Physics Experiments, and Also i like to learn more about the climate mainly Energy with aim of protecting the environment.
 
-I am passionate about App Development and communities. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
+I am passionate about Climate protection models. I just enjoy working on new climate model. Also work as smart as possible. I love to do creative models. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, I give attention to paid requests.
 
-I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
+I studied Bachelor of science in Teaching Physics Secondary at University of Rwanda College of Education (UR-CE) from 2013 to 2017. From 20/08/2018-01/11/2020, I was employed by Gasabo District as a permanent secondary teacher at Gs Gicaca I, Since September 2020, I'm doing Master of Mathematical science at African Institute for mathematical Sciences (AIMS-Rwanda).
 
 
 ### Let's be friends
@@ -23,14 +23,14 @@ Join me on the following networks and/or websites:
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/azamukedenish1">
+    <a rel="me" href="//twitter.com/emminey4">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//www.facebook.com/Azamuke-Denish-111776309235790/?ref=page_internal">
+    <a rel="me" href="//www.facebook.com/emmanuel.niyibizi.54/?ref=page_internal">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
       </span><br><span class="label">Facebook</span>
@@ -44,7 +44,7 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/emminey">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
@@ -52,7 +52,7 @@ Join me on the following networks and/or websites:
   </li>
   
   <li>
-    <a rel="me" href="//linkedin.com/in/azamuke-denish-
+    <a rel="me" href="//linkedin.com/in/Niyibizi Emmanuel
 42b465145/">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
@@ -62,7 +62,7 @@ Join me on the following networks and/or websites:
  
   
   <li>
-    <a rel="me" href="//medium.com/@denishazamuke">
+    <a rel="me" href="//medium.com/@Niyibizi Emmanuel">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
       </span><br><span class="label">Medium</span>
@@ -76,11 +76,11 @@ Being 100% perfect in the sight of everyman is hard, but making up high quality 
 
 Nothing brings me more pleasure than making something out of nothing. Even when the results are far from my ideal expectations, I find the whole ceremony of creativity completely enthralling.
 
-I'd like to think that I'm very happy person, but I find the art that strikes me truest is the sad, depressing sort, I love hip-hop and R&B music, post-apocalyptic fiction, and movie trailers that can make me squirt tears in under two minutes. Go figure.
+I'd like to think that I'm very happy person, but I find the art that strikes me truest is the sad, depressing sort, I love Gospel and R&B music, Garden Flowers, and Trips for exploring the new environment. Go figure.
 
 ### About the site
 
-In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the mobile app industry, subjects such as design, development, or innovation among other mobile culture for businesses, companies and organisations.
+In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the Physics and Climate industry and also some computer programming languages such as design, development, or innovation among other mobile culture for businesses, companies and organisations.
 
 In case you were wondering, this site is:
 
