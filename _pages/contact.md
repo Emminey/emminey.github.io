@@ -11,7 +11,7 @@ If you have any questions, comments, or would just like to say hello in general,
 <ul class="social-links">
   {% if site.author.twitter %}
   <li>
-    <a rel="me" href="//twitter.com/azamukedenish1">
+    <a rel="me" href="//twitter.com/emminey4">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
@@ -20,21 +20,21 @@ If you have any questions, comments, or would just like to say hello in general,
   {% endif %}
   {% if site.author.facebook %}
   <li>
-    <a rel="me" href="//www.facebook.com/Azamuke-Denish-111776309235790/?ref=page_internal">
+    <a rel="me" href="//www.facebook.com/emmanuel.niyibizi.54/?ref=page_internal">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
       </span><br><span class="label">Facebook</span>
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/azamukedenish">
+     <a rel="me" href="//instagram.com/Niyibizi Emminey">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/emminey">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
